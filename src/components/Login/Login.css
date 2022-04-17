@@ -1,0 +1,23 @@
+
+.form-container{
+    border: 2px solid lightslategray;
+    width: 60%;
+    margin: 0 auto;
+}
+.input-group label{
+    display: block;
+    margin-left: 5px;
+}
+.form-container a{
+    color: orange;
+    text-decoration: none;
+}
+.form-container a:hover{
+    color:green;
+}
+.form-submit{
+    width: 100px;
+    border-radius: 6px;
+    border: none;
+    background-color: lightcoral;
+}
